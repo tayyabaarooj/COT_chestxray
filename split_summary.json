@@ -1,0 +1,26 @@
+{
+  "total_patients": 3826,
+  "total_images": 7426,
+  "splits": {
+    "train": {
+      "patients": 2678,
+      "images": 5195,
+      "percentage": 69.99477260846837
+    },
+    "val": {
+      "patients": 382,
+      "images": 739,
+      "percentage": 9.984317825405123
+    },
+    "test": {
+      "patients": 766,
+      "images": 1492,
+      "percentage": 20.0209095661265
+    }
+  },
+  "stratification": {
+    "single_image_patients": 435,
+    "few_image_patients": 3377,
+    "many_image_patients": 14
+  }
+}
