@@ -1,0 +1,287 @@
+uid,projection,cot_output
+1,"Frontal,Lateral","<think>
+1) Cardiac silhouette and mediastinum size appear normal.
+2) No pulmonary edema is visualized on the image.
+3) No focal consolidation is seen in the lungs.
+4) No pleural effusion is present in the chest.
+5) No pneumothorax is identified within the pleural space.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest</area>"
+2,"Frontal,Lateral","<think>
+1) Heart size is borderline enlarged.
+2) Midline sternotomy is present.
+3) Pulmonary arteries appear enlarged.
+4) Lungs are clear without acute findings.
+</think>
+<cat>Cardiopulmonary disease</cat>
+<area>Heart, Lungs</area>"
+3,"Frontal,Lateral","<think>
+1) No rib fractures, pneumothorax, or pleural effusion seen.
+2) Lungs are well-expanded and appear clear.
+3) Mediastinal contour is within normal limits.
+4) No acute cardiopulmonary abnormality identified on imaging.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest, Lungs</area>"
+4,"Frontal,Lateral","<think>
+1) Diffuse bilateral interstitial and alveolar opacities noted.
+2) Findings consistent with chronic obstructive lung disease.
+3) Bullous emphysema is present bilaterally.
+4) Irregular opacities in left lung apex seen.
+5) Possible cavitary lesion in left lung apex.
+6) Streaky opacities in right upper lobe noted.
+7) Cardiomediastinal silhouette is normal size and contour.
+8) No pneumothorax or large pleural effusion present.
+9) Recommend short interval follow-up imaging.
+</think>
+<cat>COPD/Emphysema</cat>
+<area>Lungs</area>"
+5,"Frontal,Lateral","<think>
+1) Cardiomediastinal silhouette and pulmonary vasculature appear normal.
+2) No pneumothorax or pleural effusion identified.
+3) No focal consolidation seen in lungs.
+4) Cholecystectomy clips are present post-surgery.
+5) Small osteophytes noted in thoracic spine.
+6) Biapical pleural thickening is present, stable.
+7) Lungs show mild hyperexpansion.
+8) No acute cardiopulmonary abnormality detected.
+</think>
+<cat>Chronic lung disease</cat>
+<area>Pleura, Lungs</area>"
+6,"Frontal,Lateral","<think>
+1) Heart size and mediastinal contour appear normal.
+2) No focal airspace consolidation or suspicious pulmonary opacity seen.
+3) No pneumothorax or large pleural effusion identified.
+4) Mild degenerative change noted in the thoracic spine.
+5) No acute cardiopulmonary findings are present.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest, Spine</area>"
+7,"Frontal,Lateral","<think>
+1) Cardiac silhouette appears normal in size and contour.
+2) Basilar atelectasis noted in lower lung zones.
+3) Lungs are clear, no consolidation or effusion.
+4) Thoracic spondylosis observed in the spine.
+5) Lower cervical arthritis is present.
+</think>
+<cat>Lung disease</cat>
+<area>Lungs, Spine</area>"
+8,"Frontal,Lateral","<think>
+1) Heart, pulmonary vasculature, and mediastinum appear normal.
+2) No pleural effusion or pneumothorax is present.
+3) No focal air space opacity suggests pneumonia.
+4) Interim cervical spinal fusion is partly evaluated.
+5) No acute cardiopulmonary disease is identified.
+</think>
+<cat>Spinal Fusion</cat>
+<area>Cervical Spine</area>"
+9,"Frontal,Lateral","<think>
+1) Cardiac silhouette appears normal size.
+2) Increased low density convexity at left cardiophrenic angle.
+3) Calcified granuloma noted in right upper lobe.
+4) No consolidation, effusion, or pneumothorax observed.
+5) Increased density noted in left cardiophrenic angle.
+6) Differential includes epicardial fat, pericardial mass, pleural mass.
+7) Cardiac aneurysm is also a differential consideration.
+8) CT chest with contrast is recommended for evaluation.
+</think>
+<cat>Cardiac mass</cat>
+<area>Left cardiophrenic angle</area>"
+10,"Frontal,Lateral","<think>
+1) Cardiomediastinal silhouette normal size and contour.
+2) Lungs normally inflated, no focal disease.
+3) No pleural effusion or pneumothorax seen.
+4) Stable calcified granuloma in right upper lung.
+5) No acute bone abnormality identified.
+6) No acute cardiopulmonary process detected.
+</think>
+<cat>Granuloma</cat>
+<area>Lung</area>"
+11,"Frontal,Lateral","<think>
+1) Cardiomediastinal silhouette appears normal size and contour.
+2) Pulmonary vasculature shows no congestion or abnormal prominence.
+3) Lungs demonstrate clear parenchyma without consolidation or infiltrates.
+4) No evidence of pneumothorax or pleural effusion identified.
+5) No acute fractures or other osseous abnormalities seen.
+6) Overall assessment reveals no acute cardiopulmonary pathology.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest, Lungs</area>"
+12,"Frontal,Lateral","<think>
+1) Lungs are clear bilaterally, no consolidation or infiltrates seen.
+2) Cardiac and mediastinal silhouettes appear normal in size and contour.
+3) Pulmonary vasculature is unremarkable, no signs of congestion or embolism.
+4) No evidence of pneumothorax or pleural effusion is present.
+5) No acute bony abnormality identified in the visualized structures.
+6) Overall, no acute cardiopulmonary abnormality is detected.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest, Lungs</area>"
+13,"Frontal,Lateral","<think>
+1) Cardiac silhouette appears borderline enlarged on chest radiograph.
+2) No focal lung opacity identified within the lung fields.
+3) Mediastinal contours are normal, no widening observed.
+4) No significant pleural effusion or pneumothorax detected.
+</think>
+<cat>Cardiomegaly</cat>
+<area>Heart, Chest</area>"
+14,"Frontal,Lateral","<think>
+1) Heart size is normal, stable mediastinum and hila.
+2) Mild hyperinflation is present, similar to prior studies.
+3) No consolidation or pleural effusion is identified.
+4) Chronic interstitial markings are scattered throughout lungs.
+5) No signs of acute pulmonary edema are seen.
+</think>
+<cat>Chronic lung disease</cat>
+<area>Lungs</area>"
+15,"Frontal,Lateral","<think>
+1) Cardiomediastinal silhouette and pulmonary vasculature appear normal.
+2) Lungs are clear, no pneumothorax or pleural effusion.
+3) Evidence of prior granulomatous disease is present.
+4) No acute osseous or cardiopulmonary findings noted.
+</think>
+<cat>Granulomatous disease</cat>
+<area>Lungs</area>"
+17,"Frontal,Lateral","<think>
+1) Lungs clear, no consolidation or suspicious opacities noted.
+2) Heart size appears normal, no cardiomegaly observed.
+3) No pleural effusion or pneumothorax identified.
+4) Bones appear intact, no fractures seen.
+5) Overall, no acute cardiopulmonary abnormalities detected.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest, Lungs</area>"
+18,"Frontal,Lateral","<think>
+1) Heart size appears normal.
+2) Lungs clear, no consolidation.
+3) No pleural effusion detected.
+4) No signs of pulmonary edema.
+5) No pneumothorax identified.
+6) No acute cardiopulmonary abnormalities seen.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest, Lungs</area>"
+19,"Frontal,Lateral","<think>
+1) Normal heart size noted on imaging.
+2) Tortuosity of thoracic aorta is stable.
+3) No focal airspace disease or effusion seen.
+4) No pleural effusions or pneumothoraces identified.
+5) Degenerative changes present in thoracic spine.
+6) No acute cardiopulmonary process is evident.
+</think>
+<cat>Aortic tortuosity</cat>
+<area>Thorax, Spine</area>"
+20,"Frontal,Lateral","<think>
+1) Cardiac and mediastinal silhouettes appear unremarkable.
+2) Lungs are well expanded and clear.
+3) No focal air space opacities identified.
+4) No pneumothorax or pleural effusion present.
+5) Mild degenerative changes noted in thoracic spine.
+6) No acute cardiopulmonary process is evident.
+7) Stable chest appearance compared to prior studies.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest, Spine</area>"
+21,"Frontal,Lateral","<think>
+1) Heart size is normal, mediastinum unremarkable.
+2) Pulmonary vascularity appears within normal limits.
+3) Calcified lingular granuloma identified.
+4) No consolidation, effusion, or pneumothorax seen.
+5) Moderate wedge deformity noted at T6 vertebra.
+</think>
+<cat>Vertebral deformity</cat>
+<area>Thoracic spine</area>"
+22,"Frontal,Lateral","<think>
+1) Lungs are clear, no focal air space opacity.
+2) Cardiomediastinal silhouette normal size and contour.
+3) No pneumothorax or large pleural effusion noted.
+4) No acute cardiopulmonary abnormality identified on imaging.
+</think>
+<cat>Normal Chest</cat>
+<area>Lungs, Chest</area>"
+23,"Frontal,Lateral","<think>
+1) Heart size and pulmonary vascularity are normal.
+2) Lungs clear of focal airspace disease.
+3) No pleural effusion or pneumothorax identified.
+4) No evidence of active disease seen.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest, Lungs</area>"
+24,"Frontal,Lateral","<think>
+1) Cardiomediastinal silhouette normal size and appearance.
+2) Pulmonary vascularity unremarkable, no congestion.
+3) Lungs expanded, clear of airspace disease.
+4) No pneumothorax or pleural effusion identified.
+5) No acute bone abnormality seen.
+6) Incompletely evaluated lumbar levoscoliosis present.
+7) No acute cardiopulmonary abnormality detected.
+</think>
+<cat>Scoliosis</cat>
+<area>Lungs, Spine</area>"
+25,"Frontal,Lateral","<think>
+1) Heart size is normal.
+2) Suture material over right lung apex.
+3) Lungs hyperlucent, hyperinflated, consistent with emphysema.
+4) Left lower lobe airspace disease identified.
+5) Moderate left pleural effusion present.
+6) Small right pleural effusion present.
+7) No pneumothorax visualized.
+</think>
+<cat>Lung disease</cat>
+<area>Lungs, Pleura</area>"
+26,"Frontal,Lateral","<think>
+1) Cardiac silhouette appears normal in size and contour.
+2) Lungs are clear, without consolidation or effusion.
+3) Degenerative changes noted in the thoracic spine.
+4) No evidence of acute cardiopulmonary process identified.
+</think>
+<cat>Degenerative disease</cat>
+<area>Thoracic spine</area>"
+27,"Frontal,Lateral","<think>
+1) Lungs show overall hyperexpansion.
+2) Diaphragms appear flattened bilaterally.
+3) No focal consolidation identified.
+4) No pleural effusions or pneumothoraces seen.
+5) Heart and mediastinum are normal size/contour.
+6) Thoracic spine shows degenerative changes.
+</think>
+<cat>COPD</cat>
+<area>Lungs</area>"
+28,"Frontal,Lateral","<think>
+1) Bilateral patchy pulmonary opacities observed.
+2) Left base consolidation improved intervally.
+3) Pulmonary vascular congestion is present again.
+4) Cardiomediastinal silhouette remains enlarged and stable.
+5) No pneumothorax or large pleural effusions seen.
+</think>
+<cat>Congestive Heart Failure</cat>
+<area>Lungs, Heart</area>"
+29,"Frontal,Lateral","<think>
+1) Heart size is borderline enlarged.
+2) Left diaphragm is elevated position.
+3) Right lung fields are clear.
+4) Tracheostomy tube tip is above carina.
+5) Extensive airspace disease in left base.
+6) No large pleural effusion present.
+7) No pneumothorax is identified.
+</think>
+<cat>Pneumonia</cat>
+<area>Left base</area>"
+30,"Frontal,Lateral","<think>
+1) Lungs clear, no consolidation, effusion, or pneumothorax noted.
+2) Heart size appears normal, no acute cardiopulmonary abnormality.
+3) Bony thorax and soft tissues are grossly unremarkable.
+4) No pneumoperitoneum is identified on the imaging study.
+</think>
+<cat>Normal Chest</cat>
+<area>Chest, Lungs</area>"
+31,"Frontal,Lateral","<think>
+1) Interstitial markings appear slightly more prominent than usual.
+2) These changes may indicate bronchitic or bronchiolitis processes.
+3) No suspicious nodules or signs of pneumonia identified.
+4) No pleural effusions or signs of congestive heart failure.
+5) Mediastinal contour remains stable compared to prior studies.
+</think>
+<cat>Lung disease</cat>
+<area>Lungs, Mediastinum</area>"
